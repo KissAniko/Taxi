@@ -187,7 +187,7 @@ namespace Taxi
                 }
             }
 
-            Console.WriteLine($"Hibás fuvarok adatai mentve: {"hibak.txt"}");
+            Console.WriteLine($"8.feladat: {"hibak.txt"}");
 
 }
 
